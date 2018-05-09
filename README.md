@@ -11,7 +11,9 @@ GDPR is a regulation issued by the European Parliament​, the European Council�
 
 ### Personal Data Definition
 GDPR does define what personal data is with-in Article 4 and thru Recitals 15,26,28,29,30,31,34,35,36,37. To be precise the definition is:
-> ‘***personal data***’ means **any information** relating to an identified or identifiable natural person (‘*data subject*’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person
+> ‘***personal data***’ means **any information** relating to an identified or identifiable natural person (‘*data subject*’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+
+[Personal Data Detials](whatispersonaldata.md) here
 
 ## How to Use this Repository
 The repository is built around each member state (yes including the UK which will technically still be in the EU at the start of GDPR). Also included is a general set of patterns which will apply to each member nation (e.g. IP addresses, IMEI, DoB, ...)
