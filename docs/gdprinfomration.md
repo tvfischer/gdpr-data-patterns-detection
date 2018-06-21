@@ -15,11 +15,12 @@ Breach notification must be done with-in 72 hours of discovery. The notification
 
 ## Key Terms and Concepts
 These key terms and concepts are an important part of GDRP and wil regularly come up.
-[[GDPR Personal Data Definition|What is personal data]] and what is covered under personal data is quite extensive covering simple items like name and address to genetic materials. ​[[GDPR Personal Data Definition|​Follow the link for more details.]]
-[[DPO Definition|DPO or Data Protection Officer]] is like a CSO, CIO or similar that holds the responsibility on data protection for the organisation.
-[[DPA Definition|DPA or Data Protection Authority]] is the government body enabled to collect and receive breach notifications as well as issue penalities.
-Data Controller is the organisation or company collecting the personal data and is usually the customer interface.
-Data Processor is an organisation or company that has been stores and processes personal data. This can the data controller or can be a 3rd party providing services (like a cloud service; e.g. Office 365)
+- Data Subject is the person who is providing Personal Data is some form or another. They can be a citizen of an EU member state or resident
+- [GDPR Personal Data Definition](whatispersonaldata.md) and what is covered under personal data is quite extensive covering simple items like name and address to genetic materials. ​[Follow the link for more details.](whatispersonaldata.md)
+- [DPO or Data Protection Officer](dpodefinition.md) is like a CSO, CIO or similar that holds the responsibility on data protection for the organisation.
+- [DPA or Data Protection Authority](dpadefinition.md) is the government body enabled to collect and receive breach notifications as well as issue penalities.
+- Data Controller is the organisation or company collecting the personal data and is usually the customer interface.
+- Data Processor is an organisation or company that has been stores and processes personal data. This can the data controller or can be a 3rd party providing services (like a cloud service; e.g. Office 365)
 
 ## Key Directives
 These key terms and concepts are an important part of GDRP and will regularly come up.​
