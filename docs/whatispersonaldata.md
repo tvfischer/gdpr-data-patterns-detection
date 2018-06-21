@@ -6,8 +6,14 @@ To get an extended clarification of personal data, reading the recitals is impor
 
 The GDPR also introduces the concept that some personal data is more sensitive and thus more restrictive in terms of processing than other types.
 
+The work done here has tried to breakdown all the possible items that could be used in some form to identify a Data Subject.
+
 ![Overview of the different Personal Data items](gdprpersonaldataoverview.png)
 
-## Personal Data 
+## Personal Data
+The GDRP defines personal data as any information relating to an identified or identifiable natural person or Data Subject. Traditionally, PII (Personally Identifiable Information) has set the standard for most enumarations of personal data attributes. This is no longer enough due to the nature of anything that could be used to identify a person.
+
 
 ## Sensitive Personal Data
+The GDPR also defines some  special types of personal data that will have more stringent data protection controls in this statement (from "Article 9: Processing of special categories of personal data"): 
+> racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation shall be prohibited
